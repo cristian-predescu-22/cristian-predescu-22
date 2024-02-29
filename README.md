@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cristian-predescu-22
-- 👀 I’m interested in Software Development/Scripting ( Utilising Python or C#/C++ )
+- 👀 I’m interested in Software Development/Scripting ( Utilising Python or C# )
 - 🌱 I’m currently learning ( C# for Visual Studio )
 - 💞️ I’m looking to collaborate on ( Projects that I can also use so I'm also passionate about )
 - 📫 How to reach me ( Email - cristipredescu21@yahoo.com )
